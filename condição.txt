@@ -1,0 +1,44 @@
+segurança pública ruim
+
+"Infelizmente, a sensação de segurança nesta área é uma 
+preocupação constante, exigindo atenção redobrada e 
+precauções adicionais por parte dos moradores e visitantes."
+
+
+Qualidade da água ruim
+
+"Devido às condições atuais, desaconselha-se o banho nesta 
+área por questões de segurança e qualidade da água."
+
+
+segurança pública boa
+
+"Atualmente, a segurança na área encontra-se em ótimas 
+condições, proporcionando um ambiente tranquilo e propício 
+para moradores e visitantes."
+
+Qualidade da água boa
+
+"A área é considerada segura para banho, oferecendo uma 
+experiência agradável e relaxante para quem deseja 
+desfrutar das águas locais."
+
+segurança pública Atenção
+
+"A situação de segurança na área requer atenção, sendo 
+aconselhável adotar medidas adicionais de precaução 
+enquanto desfruta deste local."
+
+
+Qualidade da água atenção
+
+"É recomendável atenção à qualidade da água neste local 
+antes de tomar banho, garantindo uma experiência mais 
+segura e agradável."
+
+
+vermelho - (245, 37, 82);
+
+Verde - (75, 247, 161);
+
+Amarelo - (245, 231, 37);
